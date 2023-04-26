@@ -11,7 +11,7 @@ Theres a bunch of ways we could do this. I decided to go with [Universal CooKie]
 >npm i universal-cookie 
 
 ## use a **CDN**
-you can also just add the cdn into your html script file. But thats probably terrible practice. Its also not as straight forward.
+you can also just add the script via cdn into your html file. But thats probably not best practice. 
 >`<script crossorigin src="https://unpkg.com/universal-cookie@3/umd/universalCookie.min.js"></script>`
 
 Code is pretty straight forward. It also offers loads of options to set up cookies.
